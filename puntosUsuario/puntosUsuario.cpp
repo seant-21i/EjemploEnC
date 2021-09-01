@@ -1,6 +1,6 @@
 /*  Grafica de valores introducidos por el usuario
     Autor: Villanueva Mejia Sebastian Antonio (seant-21i)
-    El programa genera 20 numeros aleatorios, los guarda en dos arreglos
+    El usuario ingresa N puntos, y el sistema los guarda en dos arreglos
     dedicados especificamente a X, Y. posteriormente los grafica con 
     ayuda de GNUplot.   */
 #include <cstdio>
